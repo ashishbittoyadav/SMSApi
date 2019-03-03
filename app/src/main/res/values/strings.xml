@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMSApi</string>
+    <string name="enter_phone_number">enter phone number</string>
+    <string name="type_message">type message..</string>
+    <string name="send">send</string>
+    <string name="message_simulator">Message Simulator</string>
+</resources>
